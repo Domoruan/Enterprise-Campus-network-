@@ -1,6 +1,5 @@
 # Campus-network
-Enterprise Network - Version 3 
-
+Enterprise Network 
 # Cisco Packet Tracer enterprise network connecting an HQ building and a Branch building using OSPF.
 
 ## Main Features
